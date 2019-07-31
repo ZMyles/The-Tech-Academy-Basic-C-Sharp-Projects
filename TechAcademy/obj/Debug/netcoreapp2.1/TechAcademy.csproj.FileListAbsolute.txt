@@ -1,0 +1,11 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\bin\Debug\netcoreapp2.1\TechAcademy.deps.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\bin\Debug\netcoreapp2.1\TechAcademy.runtimeconfig.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\bin\Debug\netcoreapp2.1\TechAcademy.runtimeconfig.dev.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\bin\Debug\netcoreapp2.1\TechAcademy.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\bin\Debug\netcoreapp2.1\TechAcademy.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\obj\Debug\netcoreapp2.1\TechAcademy.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\obj\Debug\netcoreapp2.1\TechAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\obj\Debug\netcoreapp2.1\TechAcademy.AssemblyInfoInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\obj\Debug\netcoreapp2.1\TechAcademy.AssemblyInfo.cs
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\obj\Debug\netcoreapp2.1\TechAcademy.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\TechAcademy\obj\Debug\netcoreapp2.1\TechAcademy.pdb
