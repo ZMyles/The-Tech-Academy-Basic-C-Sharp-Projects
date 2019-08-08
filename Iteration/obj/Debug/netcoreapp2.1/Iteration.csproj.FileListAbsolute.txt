@@ -1,0 +1,11 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\bin\Debug\netcoreapp2.1\Iteration.deps.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\bin\Debug\netcoreapp2.1\Iteration.runtimeconfig.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\bin\Debug\netcoreapp2.1\Iteration.runtimeconfig.dev.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\bin\Debug\netcoreapp2.1\Iteration.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\bin\Debug\netcoreapp2.1\Iteration.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\obj\Debug\netcoreapp2.1\Iteration.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\obj\Debug\netcoreapp2.1\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\obj\Debug\netcoreapp2.1\Iteration.AssemblyInfoInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\obj\Debug\netcoreapp2.1\Iteration.AssemblyInfo.cs
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\obj\Debug\netcoreapp2.1\Iteration.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Iteration\obj\Debug\netcoreapp2.1\Iteration.pdb
