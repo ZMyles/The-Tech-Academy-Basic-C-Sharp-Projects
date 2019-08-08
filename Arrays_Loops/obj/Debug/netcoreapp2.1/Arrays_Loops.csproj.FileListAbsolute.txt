@@ -1,0 +1,11 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\bin\Debug\netcoreapp2.1\Arrays_Loops.deps.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\bin\Debug\netcoreapp2.1\Arrays_Loops.runtimeconfig.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\bin\Debug\netcoreapp2.1\Arrays_Loops.runtimeconfig.dev.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\bin\Debug\netcoreapp2.1\Arrays_Loops.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\bin\Debug\netcoreapp2.1\Arrays_Loops.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\obj\Debug\netcoreapp2.1\Arrays_Loops.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\obj\Debug\netcoreapp2.1\Arrays_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\obj\Debug\netcoreapp2.1\Arrays_Loops.AssemblyInfoInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\obj\Debug\netcoreapp2.1\Arrays_Loops.AssemblyInfo.cs
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\obj\Debug\netcoreapp2.1\Arrays_Loops.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Arrays_Loops\obj\Debug\netcoreapp2.1\Arrays_Loops.pdb

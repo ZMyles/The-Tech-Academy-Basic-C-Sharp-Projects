@@ -1,0 +1,11 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\bin\Debug\netcoreapp2.1\SimplyArrayPrograms.deps.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\bin\Debug\netcoreapp2.1\SimplyArrayPrograms.runtimeconfig.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\bin\Debug\netcoreapp2.1\SimplyArrayPrograms.runtimeconfig.dev.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\bin\Debug\netcoreapp2.1\SimplyArrayPrograms.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\bin\Debug\netcoreapp2.1\SimplyArrayPrograms.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\obj\Debug\netcoreapp2.1\SimplyArrayPrograms.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\obj\Debug\netcoreapp2.1\SimplyArrayPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\obj\Debug\netcoreapp2.1\SimplyArrayPrograms.AssemblyInfoInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\obj\Debug\netcoreapp2.1\SimplyArrayPrograms.AssemblyInfo.cs
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\obj\Debug\netcoreapp2.1\SimplyArrayPrograms.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\SimplyArrayPrograms\obj\Debug\netcoreapp2.1\SimplyArrayPrograms.pdb
