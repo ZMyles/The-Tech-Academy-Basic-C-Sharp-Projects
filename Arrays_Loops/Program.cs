@@ -7,16 +7,16 @@ namespace Arrays_Loops
     {
         static void Main()
         {
-            List<int> intList = new List<int>();
-            intList.Add(4);
-            intList.Add(10);
+            //List<int> intList = new List<int>();
+            //intList.Add(4);
+            //intList.Add(10);
 
-            Console.WriteLine(intList[0]);
-            Console.ReadLine();
+            //Console.WriteLine(intList[0]);
+            //Console.ReadLine();
 
 
-            // To upload an image in C#
-            byte[] byteArray = 
+            //// To upload an image in C#
+            //byte[] byteArray = 
 
 
 
