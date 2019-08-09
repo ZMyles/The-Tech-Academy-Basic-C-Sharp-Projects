@@ -1,0 +1,11 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\obj\Debug\netcoreapp2.1\ConsoleApp_Test.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\obj\Debug\netcoreapp2.1\ConsoleApp_Test.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\obj\Debug\netcoreapp2.1\ConsoleApp_Test.AssemblyInfoInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\obj\Debug\netcoreapp2.1\ConsoleApp_Test.AssemblyInfo.cs
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\bin\Debug\netcoreapp2.1\ConsoleApp_Test.deps.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\bin\Debug\netcoreapp2.1\ConsoleApp_Test.runtimeconfig.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\bin\Debug\netcoreapp2.1\ConsoleApp_Test.runtimeconfig.dev.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\bin\Debug\netcoreapp2.1\ConsoleApp_Test.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\bin\Debug\netcoreapp2.1\ConsoleApp_Test.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\obj\Debug\netcoreapp2.1\ConsoleApp_Test.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\WorkingWithClases\ConsoleApp_Test\obj\Debug\netcoreapp2.1\ConsoleApp_Test.pdb
