@@ -1,0 +1,11 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\bin\Debug\netcoreapp2.1\Odd.deps.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\bin\Debug\netcoreapp2.1\Odd.runtimeconfig.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\bin\Debug\netcoreapp2.1\Odd.runtimeconfig.dev.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\bin\Debug\netcoreapp2.1\Odd.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\bin\Debug\netcoreapp2.1\Odd.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\obj\Debug\netcoreapp2.1\Odd.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\obj\Debug\netcoreapp2.1\Odd.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\obj\Debug\netcoreapp2.1\Odd.AssemblyInfoInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\obj\Debug\netcoreapp2.1\Odd.AssemblyInfo.cs
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\obj\Debug\netcoreapp2.1\Odd.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Odd practice\Odd\obj\Debug\netcoreapp2.1\Odd.pdb
