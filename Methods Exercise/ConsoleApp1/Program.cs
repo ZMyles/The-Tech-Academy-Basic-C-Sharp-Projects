@@ -28,7 +28,7 @@ namespace OneMethodOnePower
 
             int userResult2 = Class1.AddMethod(x, y);
 
-            Console.WriteLine(x1 + " + " + y2 + " = " + userResult2);
+            Console.WriteLine(userResult2);
 
             //Takes STRINGS INTO INTEgers ==========================
             Console.WriteLine("Give me a number, lets turn it into a interger.");
