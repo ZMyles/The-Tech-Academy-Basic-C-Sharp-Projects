@@ -14,9 +14,10 @@ namespace ConsoleApp1
         }
 
         //Second Method, OutPut
-        public void OutPut(int x, int y)
+        public void OutPut(out int x, int y)
         {
-            
+            int temp = 5;
+            x = temp;
         }
 
     }

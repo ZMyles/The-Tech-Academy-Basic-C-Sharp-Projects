@@ -11,7 +11,15 @@ namespace ConsoleApp1
 
             Class1 test = new Class1();
             test.DivideInt(userInput);
-               
+
+
+
+            //Output Parameters ============================
+            int localVar = 20;
+
+            test.OutPut(out localVar);
+
+            Console.WriteLine("The magic number is... {0}", localVar);
         }
     }
 }
