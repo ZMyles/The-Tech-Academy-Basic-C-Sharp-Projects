@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Odd
+namespace Enum_Exercise
 {
     class Program
     {
         static void Main(string[] args)
         {
-            OddClass.AddInt(Convert.ToInt32(Console.ReadLine()), 5);     
+            Console.WriteLine("Hello World!");
         }
     }
 }
