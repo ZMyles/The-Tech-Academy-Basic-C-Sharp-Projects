@@ -6,11 +6,21 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            //This is a simple programe
-            Console.WriteLine("What is your name?");
-            string yourName = Console.ReadLine();
-            Console.WriteLine("Your name is:" + yourName);
-            Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+            ////This is a simple program
+            //Console.WriteLine("What is your name?");
+            //string yourName = Console.ReadLine();
+            //Console.WriteLine("Your name is:" + yourName);
+            //Console.ReadLine();
 
             //Console.WriteLine("What is your favorite number?");
             //string  favoriteNumber = Console.ReadLine();
