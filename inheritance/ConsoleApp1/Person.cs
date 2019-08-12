@@ -4,11 +4,12 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-     public class Person
+     public class Person 
     {
 
-        public string FirstName;
-        public string LastName;
+        public string FirstName {get; set; }
+        public string LastName {get; set; }
+
         public void SayName()
         {
             string fullName = FirstName + LastName;

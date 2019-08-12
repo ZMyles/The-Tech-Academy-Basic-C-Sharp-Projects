@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    public class Employee : Person
+    public class Employee : Person 
     {
         int Id;
          SayName();
