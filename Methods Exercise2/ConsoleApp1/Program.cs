@@ -10,7 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("Please enter a Number");
             int userInput1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("If you wish, you can add another number, if not please type \"No Num\"");
+            Console.WriteLine("If you wish, you can add another number. If not don't type anything");
             string userInput2 = Console.ReadLine();
 
             // Pushes Inputs int Method

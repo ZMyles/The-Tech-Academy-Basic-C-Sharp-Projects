@@ -9,7 +9,7 @@ namespace ConsoleApp1
         public static int AdditonMethod(int j, string i)
         {
             //Code figure outs where they entered a number or didn't add anything
-            if (i == "No Num")
+            if (i == " ")
             {
                 int noInput = 10;
                 int result = j + noInput;
