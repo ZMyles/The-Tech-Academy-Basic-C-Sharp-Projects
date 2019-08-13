@@ -7,9 +7,6 @@ namespace Odd
     class OddClass { 
     
 
-       int num = 12;
-       int num2 = 10;
-
         public void AddInt(int num, int num2)
         {
             int result = num * 5;

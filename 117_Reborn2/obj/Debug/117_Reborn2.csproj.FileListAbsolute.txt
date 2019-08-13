@@ -1,0 +1,7 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\117_Reborn2\bin\Debug\117_Reborn2.exe.config
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\117_Reborn2\bin\Debug\117_Reborn2.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\117_Reborn2\bin\Debug\117_Reborn2.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\117_Reborn2\obj\Debug\117_Reborn2.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\117_Reborn2\obj\Debug\117_Reborn2.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\117_Reborn2\obj\Debug\117_Reborn2.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\117_Reborn2\obj\Debug\117_Reborn2.pdb
