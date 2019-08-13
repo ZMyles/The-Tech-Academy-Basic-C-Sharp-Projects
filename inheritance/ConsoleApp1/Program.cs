@@ -8,7 +8,9 @@ namespace ConsoleApp1
         {
             Employee employee = new Employee();
             employee.FirstName = "Sample";
-            employee.LastName = "Student";   
+            employee.LastName = "Student";  
+            
+            Console.WriteLine(employee.SayName());
 
         }
     }
