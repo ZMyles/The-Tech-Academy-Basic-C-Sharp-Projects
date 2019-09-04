@@ -19,10 +19,7 @@ namespace _117_Reborn2
         {
             int result = x * 10;
             return result;
-        }
-
-        
-
+        }      
 
     }
 }

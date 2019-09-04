@@ -12,15 +12,15 @@ namespace _117_Reborn2
         {
 
 
-            Console.WriteLine("Give me a number, let's divide it by two.");
-            int userInput = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Give me a number, let's divide it by two.");
+            //int userInput = Convert.ToInt32(Console.ReadLine());
 
-            int result;
+            //int result;
 
-            Class1 test = new Class1();
-            test.DivideInt(userInput, out result);
-            Console.WriteLine("Your number divided by two: " + result);
-            Console.ReadLine();
+            //Class1 test = new Class1();
+            //test.DivideInt(userInput, out result);
+            //Console.WriteLine("Your number divided by two: " + result);
+            //Console.ReadLine();
 
 
 

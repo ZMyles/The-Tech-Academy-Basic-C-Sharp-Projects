@@ -1,0 +1,7 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\File_I_O\bin\Debug\File_I_O.exe.config
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\File_I_O\bin\Debug\File_I_O.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\File_I_O\bin\Debug\File_I_O.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\File_I_O\obj\Debug\File_I_O.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\File_I_O\obj\Debug\File_I_O.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\File_I_O\obj\Debug\File_I_O.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\File_I_O\obj\Debug\File_I_O.pdb
