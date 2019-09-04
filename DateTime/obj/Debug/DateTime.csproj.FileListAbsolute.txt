@@ -1,0 +1,7 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\DateTime\bin\Debug\DateTime.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\DateTime\obj\Debug\DateTime.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\DateTime\obj\Debug\DateTime.pdb
