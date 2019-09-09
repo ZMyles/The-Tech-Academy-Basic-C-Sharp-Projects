@@ -1,0 +1,7 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Con_Var_Variables\bin\Debug\Con_Var_Variables.exe.config
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Con_Var_Variables\bin\Debug\Con_Var_Variables.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Con_Var_Variables\bin\Debug\Con_Var_Variables.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Con_Var_Variables\obj\Debug\Con_Var_Variables.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Con_Var_Variables\obj\Debug\Con_Var_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Con_Var_Variables\obj\Debug\Con_Var_Variables.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Con_Var_Variables\obj\Debug\Con_Var_Variables.pdb
