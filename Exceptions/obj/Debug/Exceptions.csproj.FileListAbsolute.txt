@@ -1,0 +1,7 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\Exceptions\obj\Debug\Exceptions.pdb
