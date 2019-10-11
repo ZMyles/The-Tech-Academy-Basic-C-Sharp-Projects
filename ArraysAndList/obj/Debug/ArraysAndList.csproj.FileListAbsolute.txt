@@ -1,0 +1,7 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ArraysAndList\bin\Debug\ArraysAndList.exe.config
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ArraysAndList\bin\Debug\ArraysAndList.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ArraysAndList\bin\Debug\ArraysAndList.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ArraysAndList\obj\Debug\ArraysAndList.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ArraysAndList\obj\Debug\ArraysAndList.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ArraysAndList\obj\Debug\ArraysAndList.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ArraysAndList\obj\Debug\ArraysAndList.pdb
