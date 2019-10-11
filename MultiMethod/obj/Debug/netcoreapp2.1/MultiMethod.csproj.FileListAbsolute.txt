@@ -1,0 +1,11 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\bin\Debug\netcoreapp2.1\MultiMethod.deps.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\bin\Debug\netcoreapp2.1\MultiMethod.runtimeconfig.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\bin\Debug\netcoreapp2.1\MultiMethod.runtimeconfig.dev.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\bin\Debug\netcoreapp2.1\MultiMethod.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\bin\Debug\netcoreapp2.1\MultiMethod.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\obj\Debug\netcoreapp2.1\MultiMethod.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\obj\Debug\netcoreapp2.1\MultiMethod.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\obj\Debug\netcoreapp2.1\MultiMethod.AssemblyInfoInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\obj\Debug\netcoreapp2.1\MultiMethod.AssemblyInfo.cs
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\obj\Debug\netcoreapp2.1\MultiMethod.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MultiMethod\obj\Debug\netcoreapp2.1\MultiMethod.pdb
