@@ -1,0 +1,11 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\bin\Debug\netcoreapp2.1\ClassPractices.deps.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\bin\Debug\netcoreapp2.1\ClassPractices.runtimeconfig.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\bin\Debug\netcoreapp2.1\ClassPractices.runtimeconfig.dev.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\bin\Debug\netcoreapp2.1\ClassPractices.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\bin\Debug\netcoreapp2.1\ClassPractices.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\obj\Debug\netcoreapp2.1\ClassPractices.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\obj\Debug\netcoreapp2.1\ClassPractices.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\obj\Debug\netcoreapp2.1\ClassPractices.AssemblyInfoInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\obj\Debug\netcoreapp2.1\ClassPractices.AssemblyInfo.cs
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\obj\Debug\netcoreapp2.1\ClassPractices.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ClassPractices\obj\Debug\netcoreapp2.1\ClassPractices.pdb
