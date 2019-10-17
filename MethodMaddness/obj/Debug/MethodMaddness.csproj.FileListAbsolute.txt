@@ -1,0 +1,7 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MethodMaddness\bin\Debug\MethodMaddness.exe.config
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MethodMaddness\bin\Debug\MethodMaddness.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MethodMaddness\bin\Debug\MethodMaddness.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MethodMaddness\obj\Debug\MethodMaddness.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MethodMaddness\obj\Debug\MethodMaddness.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MethodMaddness\obj\Debug\MethodMaddness.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\MethodMaddness\obj\Debug\MethodMaddness.pdb

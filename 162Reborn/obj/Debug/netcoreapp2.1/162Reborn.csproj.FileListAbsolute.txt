@@ -1,0 +1,11 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\bin\Debug\netcoreapp2.1\162Reborn.deps.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\bin\Debug\netcoreapp2.1\162Reborn.runtimeconfig.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\bin\Debug\netcoreapp2.1\162Reborn.runtimeconfig.dev.json
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\bin\Debug\netcoreapp2.1\162Reborn.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\bin\Debug\netcoreapp2.1\162Reborn.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\obj\Debug\netcoreapp2.1\162Reborn.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\obj\Debug\netcoreapp2.1\162Reborn.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\obj\Debug\netcoreapp2.1\162Reborn.AssemblyInfoInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\obj\Debug\netcoreapp2.1\162Reborn.AssemblyInfo.cs
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\obj\Debug\netcoreapp2.1\162Reborn.dll
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\162Reborn\obj\Debug\netcoreapp2.1\162Reborn.pdb
