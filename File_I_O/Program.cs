@@ -11,13 +11,17 @@ namespace File_I_O
     {
         static void Main(string[] args)
         {
-         
+            string lines;
+            string path = @"C:\Users\Zavier Myles\Desktop\Number_Storage\UserNumber.txt";
+
             Console.WriteLine("Please enter any number.");
             string userInput = Console.ReadLine();
 
             File.WriteAllText(@"C:\Users\Zavier Myles\Desktop\Number_Storage\UserNumber.txt", userInput);
 
-            Console.WriteLine("Thanks for the: {0}" , userInput);
+            lines = File.ReadAllText(path);
+
+            Console.WriteLine("Returning Value: {0}", lines);
             Console.ReadLine();
 
         }

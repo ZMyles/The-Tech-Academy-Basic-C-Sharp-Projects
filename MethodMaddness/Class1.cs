@@ -8,6 +8,8 @@ namespace MethodMaddness
 {
     class Class1
     {
+
+
         public static void Calculations(int value1, int value2)
         {
             int result1 = value1 * 25;
@@ -16,6 +18,11 @@ namespace MethodMaddness
             Console.ReadLine();
         }
 
-        
+        public static void Calculations()
+        {
+
+        }
+       
+
     }
 }
