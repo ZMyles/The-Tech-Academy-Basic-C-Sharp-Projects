@@ -9,14 +9,18 @@ namespace Con_Var_Variables
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            const string myName = "Zavier";
+    //    static void Main(string[] args)
+    //    {
+    //        const string myName = "Zavier";
 
-            var myLastName = "Myles";
+    //        var myLastName = "Myles";
 
-            Console.WriteLine("My name is {0} {1} and this is coding for dummbies.", myName, myLastName);
-            Console.ReadLine();
-        }
+    //        Console.WriteLine("My name is {0} {1}.", myName, myLastName);
+    //        Console.ReadLine();
+    //    }
+
+        //Chainned Constructors ============
+
+       
     }
 }
