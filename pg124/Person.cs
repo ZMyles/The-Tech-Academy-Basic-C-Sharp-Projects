@@ -1,23 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace pg124
 {
-     public class Person 
+    abstract class Person
     {
+        string FirstName { get; set; }
+        string LastName { get; set; }
 
-        public string FirstName {get; set; }
-        public string LastName {get; set; }
 
         public void SayName()
         {
             string fullName = FirstName + LastName;
 
             Console.WriteLine("Name: [" + fullName + "]");
-            
-            
         }
-        
     }
 }

@@ -6,7 +6,8 @@ namespace ConsoleApp1
 {
     public class Employee : Person 
     {
+        
         int Id;
-         SayName();
+        SayName();
     }
 }

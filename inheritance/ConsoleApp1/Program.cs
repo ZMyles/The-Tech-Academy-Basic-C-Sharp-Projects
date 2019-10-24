@@ -11,7 +11,6 @@ namespace ConsoleApp1
             employee.LastName = "Student";  
             
             Console.WriteLine(employee.SayName());
-
         }
     }
 }

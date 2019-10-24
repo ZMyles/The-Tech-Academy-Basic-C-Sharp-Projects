@@ -1,0 +1,7 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\pg131\bin\Debug\pg131.exe.config
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\pg131\bin\Debug\pg131.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\pg131\bin\Debug\pg131.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\pg131\obj\Debug\pg131.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\pg131\obj\Debug\pg131.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\pg131\obj\Debug\pg131.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\pg131\obj\Debug\pg131.pdb
