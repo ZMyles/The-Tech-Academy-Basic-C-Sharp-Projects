@@ -4,9 +4,8 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-     public class Person 
+    abstract public class Person 
     {
-
         public string FirstName {get; set; }
         public string LastName {get; set; }
 
@@ -14,9 +13,7 @@ namespace ConsoleApp1
         {
             string fullName = FirstName + LastName;
 
-            Console.WriteLine("Name: [" + fullName + "]");
-            
-            
+            Console.WriteLine("Name: [" + fullName + "]");    
         }
         
     }

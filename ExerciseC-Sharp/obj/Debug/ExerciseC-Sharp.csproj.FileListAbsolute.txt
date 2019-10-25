@@ -1,0 +1,7 @@
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ExerciseC-Sharp\bin\Debug\ExerciseC-Sharp.exe.config
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ExerciseC-Sharp\bin\Debug\ExerciseC-Sharp.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ExerciseC-Sharp\bin\Debug\ExerciseC-Sharp.pdb
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ExerciseC-Sharp\obj\Debug\ExerciseC-Sharp.csprojAssemblyReference.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ExerciseC-Sharp\obj\Debug\ExerciseC-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ExerciseC-Sharp\obj\Debug\ExerciseC-Sharp.exe
+C:\Users\Zavier Myles\Desktop\Basic-C-Sharp\ExerciseC-Sharp\obj\Debug\ExerciseC-Sharp.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B9EB322-AE28-4C6A-A739-A8BD4A6F4273}</ProjectGuid>
+    <ProjectGuid>{C7ED5808-A88B-4D62-87B0-373A07C80E33}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>pg124</RootNamespace>
-    <AssemblyName>pg124</AssemblyName>
+    <RootNamespace>ExerciseC_Sharp</RootNamespace>
+    <AssemblyName>ExerciseC-Sharp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

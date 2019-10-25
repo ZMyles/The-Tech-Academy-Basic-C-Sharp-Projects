@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pg124
+namespace ExerciseC_Sharp
 {
-    class Employee : Person
+    class Employee : Person 
     {
-       public SayName();
+        SayName();
     }
 }

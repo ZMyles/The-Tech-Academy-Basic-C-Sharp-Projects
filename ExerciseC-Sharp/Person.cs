@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pg124
+namespace ExerciseC_Sharp
 {
     abstract class Person
     {
-        string FirstName { get; set; }
-        string LastName { get; set; }
-
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
 
         public void SayName()
         {

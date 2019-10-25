@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pg124
+namespace ExerciseC_Sharp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //Employee employee = new Employee();
-            //employee.FirstName = "Sample";
-            //employee.LastName = "Student";
+            Employee employee = new Employee();
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
 
-            //Console.WriteLine(employee.SayName());
+            employee.SayName();
         }
     }
 }
