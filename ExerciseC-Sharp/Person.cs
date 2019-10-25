@@ -11,6 +11,8 @@ namespace ExerciseC_Sharp
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
+        public abstract void Test();
+
         public void SayName()
         {
             string fullName = FirstName + LastName;

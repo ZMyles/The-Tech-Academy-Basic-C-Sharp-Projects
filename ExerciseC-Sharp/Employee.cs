@@ -8,6 +8,10 @@ namespace ExerciseC_Sharp
 {
     class Employee : Person 
     {
-        SayName();
+       public override void Test()
+        {
+
+        }
+       
     }
 }
