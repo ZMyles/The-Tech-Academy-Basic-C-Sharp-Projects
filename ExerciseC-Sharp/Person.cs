@@ -13,7 +13,7 @@ namespace ExerciseC_Sharp
 
         public abstract void Test();
 
-        public void SayName()
+        public virtual void SayName()
         {
             string fullName = FirstName + LastName;
 

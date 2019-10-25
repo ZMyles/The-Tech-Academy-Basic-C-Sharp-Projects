@@ -10,8 +10,12 @@ namespace ExerciseC_Sharp
     {
        public override void Test()
         {
-
+            
         }
-       
+        public override void SayName()
+        {
+            base.SayName();
+        }
+
     }
 }
