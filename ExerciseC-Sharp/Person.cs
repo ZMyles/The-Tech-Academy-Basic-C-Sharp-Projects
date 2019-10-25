@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace ExerciseC_Sharp
 {
-    abstract class Person
+    public abstract class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public abstract void Test();
+        //public abstract void Test();
 
         public virtual void SayName()
         {
